@@ -1,0 +1,29 @@
+{
+
+
+    "ADMIN": false,
+    "LOGGED_IN_USER": {
+      "model": {
+        "username": "xueyusky",
+        "id": 40122854,
+        "thumbnail_url": "//cdn2.scratch.mit.edu/get_image/user/default_32x32.png",
+        "username_truncated": "xueyusky",
+        "profile_url": "/users/xueyusky/",
+        "is_educator": false,
+        "is_student": false,
+        
+        "has_outstanding_email_confirmation": true
+      },
+      "options": {
+        "authenticated": true
+      }
+    },
+    "IS_SOCIAL": false,
+    "TEMPLATE_CUES": {
+      "welcome": true,
+      "confirmed_email": false,
+      "unsupported_browser": true
+    }
+  
+  
+  }
