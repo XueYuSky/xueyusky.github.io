@@ -1,5 +1,15 @@
 theme: jekyll-theme-cayman
 title: 雪域蓝天
 description: 欢迎访问我的github网站，行健不息，厚德载物
+keywords:
 sub-title: 行健不息，厚德载物
+author: 雪域蓝天
+language: zh-CN
+timezone:
 site-footer: CopyRight @2019 雪域蓝天 <a href="https://pages.github.com">GitHub Pages</a>.
+
+markdown: kramdown
+kramdown:
+   auto_ids: true
+google:
+    analytics_id: # Your Google Analytics ID
