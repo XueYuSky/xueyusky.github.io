@@ -16,6 +16,16 @@
 
 2. [FavoriteRepositories](https://xueyusky.cn/FavoriteRepositories/): 整理总结了我所喜欢的项目，项目的创建者都是非常优秀的个人或者组织，感谢他们讲这些优秀的项目分享出来，谢谢他们为开源事业做出的贡献。
 
+## 我的其他常用博客
+
+1. [github主页 - 个人](https://github.com/xueyusky)
+
+2. [github主页 - AISkyLab](https://github.com/aiskylab)
+
+3. [CSDN 博客主页](https://aiskylab.blog.csdn.net/)
+
+4. [AISkyLab - 论坛](https://aiskylab.com)
+
 ## 友情链接
 
 |[AISkyLab](https://aiskylab.com)|
